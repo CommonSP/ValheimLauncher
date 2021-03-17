@@ -1,0 +1,10 @@
+C:\Users\evgen\source\repos\ValheimLauncher\ValheimLauncher\bin\Release\ValheimLauncher.exe.config
+C:\Users\evgen\source\repos\ValheimLauncher\ValheimLauncher\bin\Release\ValheimLauncher.exe
+C:\Users\evgen\source\repos\ValheimLauncher\ValheimLauncher\bin\Release\ValheimLauncher.pdb
+C:\Users\evgen\source\repos\ValheimLauncher\ValheimLauncher\obj\Release\ValheimLauncher.Form1.resources
+C:\Users\evgen\source\repos\ValheimLauncher\ValheimLauncher\obj\Release\ValheimLauncher.Properties.Resources.resources
+C:\Users\evgen\source\repos\ValheimLauncher\ValheimLauncher\obj\Release\ValheimLauncher.csproj.GenerateResource.cache
+C:\Users\evgen\source\repos\ValheimLauncher\ValheimLauncher\obj\Release\ValheimLauncher.csproj.CoreCompileInputs.cache
+C:\Users\evgen\source\repos\ValheimLauncher\ValheimLauncher\obj\Release\ValheimLauncher.exe
+C:\Users\evgen\source\repos\ValheimLauncher\ValheimLauncher\obj\Release\ValheimLauncher.pdb
+C:\Users\evgen\source\repos\ValheimLauncher\ValheimLauncher\obj\Release\ValheimLauncher.csprojAssemblyReference.cache
